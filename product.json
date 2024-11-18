@@ -1,0 +1,51 @@
+[
+    {
+        "name":"sumit",
+        "price":250,
+        "feature":true,
+        "company":"Apple"
+    
+    },
+    {
+        "name":"kevin",
+        "price":700,
+        "feature":true,
+        "company":"Apple"
+    
+    },
+    {
+        "name":"golu",
+        "price":500,
+        "feature":true,
+        "company":"Apple"
+    
+    },
+    {
+        "name":"harsh",
+        "price":900,
+        "feature":true,
+        "company":"Apple"
+    
+    },
+    {
+        "name":"manthan",
+        "price":250,
+        "feature":true,
+        "company":"Samsung"
+    
+    },
+    {
+        "name":"parth",
+        "price":20,
+        "feature":true,
+        "company":"Samsung"
+    
+    },
+    {
+        "name":"ankit",
+        "price":150,
+        "feature":true,
+        "company":"Apple"
+    
+    }
+]
